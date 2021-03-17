@@ -1,0 +1,27 @@
+{
+    "id": "366E4960",
+    "path": "~/flightSummaries/IP5_BSJ.R",
+    "project_path": "IP5_BSJ.R",
+    "type": "r_source",
+    "hash": "3110034845",
+    "contents": "",
+    "dirty": false,
+    "created": 1615863502397.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1615970910,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1615970910318,
+    "read_only": false,
+    "read_only_alternatives": []
+}
